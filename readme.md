@@ -1,6 +1,3 @@
 
-## 技巧
-
-1、让vs code 支持 webpack的alias
-[](https://www.jianshu.com/p/552eac30ddbf)
-
+## 纯手工系列
+通往终点的路无数条，唯有最难的路历久弥新。
