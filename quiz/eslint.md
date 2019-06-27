@@ -27,3 +27,19 @@
 ## react
 
 1、如何选择与配置适用 react 的 eslint 插件
+
+## 参考
+
+[prettier](https://prettier.io/docs/en/install.html)
+
+[prettier config](https://prettier.io/docs/en/configuration.html)
+
+[prettier with lint](https://prettier.io/docs/en/integrating-with-linters.html)
+
+[prettier vscode](https://github.com/prettier/prettier-vscode)
+
+[eslint](https://cn.eslint.org/docs/user-guide/getting-started)
+
+[eslint plugin vue](https://cn.eslint.org/docs/user-guide/getting-started)
+
+[eslint plugin react](https://github.com/yannickcr/eslint-plugin-react)

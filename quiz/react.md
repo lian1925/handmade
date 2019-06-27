@@ -15,3 +15,9 @@
 1、组件正统之争：Function vs Class
 
 2、Hooks 初接触
+
+## 参考
+
+[react class](https://react.docschina.org/docs/state-and-lifecycle.html)
+
+[hook](https://react.docschina.org/docs/hooks-intro.html)
