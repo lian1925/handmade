@@ -1,12 +1,17 @@
 import * as React from "react"
 
 export default class About extends React.Component {
+
   state = {
     date: new Date()
   }
+  timer: number = 0;
 
   componentDidMount() {
-    window.setInterval(() => {
+    let a = [].map((item, index) => {
+      return item.title;
+    });
+    this.timer = window.setInterval(() => {
       this.setState(
         { date: new Date() }
       )
