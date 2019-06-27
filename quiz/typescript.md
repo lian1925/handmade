@@ -37,3 +37,11 @@ tsc
 2、有哪些基本类型
 
 3、如何使用命名空间
+
+## 参考
+
+[react](https://www.tslang.cn/docs/handbook/react-&-webpack.html)
+
+[option](https://www.tslang.cn/docs/handbook/compiler-options.html)
+
+[react router](https://reacttraining.com/react-router/)
