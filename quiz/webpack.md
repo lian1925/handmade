@@ -3,6 +3,11 @@
 1、什么是 webpack
 
 2、如何安装 webpack
+答：
+
+```
+npm install --save-dev --exact webpack webpack-cli
+```
 
 3、如何配置基本 webpack
 
